@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Felipa&display=swap');
+
+.h1-style {
+    font-family: 'Felipa', cursive;
+    font-size: 5vw;
+    padding-top: 18%;
+    color: rgb(155, 15, 225);
+    font-weight: 900;
+}
+
+.img-style {
+    padding-bottom: 1%;
+}
+
+.pad-left {
+    padding-left: 20%;
+}
+
+.pad-bottom {
+    padding-bottom: 10%;
+}
+
+.img-width {
+    width: 100%;
+    box-shadow: 0 0 1px 2px rgb(205, 205, 205);
+}
+
+.btn-style {
+    background-color: blue;
+    color: white;
+    font-weight: 700;
+    padding: 5px 90px;
+}
+
+.selected-v {
+    padding: 20px;
+    background-color: black;
+}
